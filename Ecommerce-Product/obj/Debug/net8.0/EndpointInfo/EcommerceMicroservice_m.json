@@ -1,0 +1,9 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EcommerceMicroServico",
+    "version": "V1"
+  },
+  "paths": { },
+  "components": { }
+}
