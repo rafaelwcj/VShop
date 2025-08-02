@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e27/IruBL9Q=",
+  "dgSpecHash": "JYGuueQ6cz0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Microservice\\Ecommerce-Microservice.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Product\\Ecommerce-Product.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

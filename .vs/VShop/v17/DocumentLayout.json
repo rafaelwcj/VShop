@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|c:\\users\\rafae\\source\\repos\\vshop\\vshop\\ecommerce-web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|solutionrelative:ecommerce-web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|c:\\users\\rafae\\source\\repos\\vshop\\vshop\\ecommerce-web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|solutionrelative:ecommerce-web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|c:\\users\\rafae\\source\\repos\\vshop\\vshop\\ecommerce-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|solutionrelative:ecommerce-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|c:\\users\\rafae\\source\\repos\\vshop\\vshop\\ecommerce-web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F57A0193-D3CB-A8B9-1F76-AD36F3303777}|Ecommerce-Web\\Ecommerce-Web.csproj|solutionrelative:ecommerce-web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce-Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce-Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T13:57:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce-Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ecommerce-Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T13:52:00.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce-Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ecommerce-Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T13:51:56.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\VShop\\VShop\\Ecommerce-Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ecommerce-Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:50:25.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

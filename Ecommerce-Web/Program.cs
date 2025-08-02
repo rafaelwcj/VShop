@@ -1,7 +1,16 @@
+using Ecommerce_Web.Services.Contracts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient("ProductApi", client =>
+{
+    client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("ServiceUri:ProductApi") ?? throw new ArgumentNullException("ServiceUri:ProductApi configuration is missing or null."));
+});
+
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 
@@ -17,8 +26,6 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",

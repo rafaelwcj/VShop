@@ -3,7 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce-Microservice", "Ecommerce-Microservice\Ecommerce-Microservice.csproj", "{2E1F9659-872E-668D-0C38-4947AA600CD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce-Product", "Ecommerce-Product\Ecommerce-Product.csproj", "{2E1F9659-872E-668D-0C38-4947AA600CD4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F57A0193-D3CB-A8B9-1F76-AD36F3303777} = {F57A0193-D3CB-A8B9-1F76-AD36F3303777}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce-Web", "Ecommerce-Web\Ecommerce-Web.csproj", "{F57A0193-D3CB-A8B9-1F76-AD36F3303777}"
 EndProject

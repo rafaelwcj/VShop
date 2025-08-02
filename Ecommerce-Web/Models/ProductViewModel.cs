@@ -1,4 +1,4 @@
-﻿namespace Ecommerce_Web.Models
+﻿namespace Ecommerce_Web.Models;
 
 public class ProductViewModel
 {
